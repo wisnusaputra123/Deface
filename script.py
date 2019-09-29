@@ -7,7 +7,7 @@ print '\x1b[36;1m[+]\x1b[31;1m================BETA===============\x1b[36;1m[+]'
 print '\x1b[32;1m   Coder By : Wisnu Saputra\n   Email    : cyberin356@gmail.com\n   Team     : BERMUDA-CYBER-TEAM'
 print '\x1b[36;1m[+]\x1b[31;1m===================================\x1b[36;1m[+]'
 print '\x1b[31;1m[+]\x1b[36;1m===================================\x1b[31;1m[+]'
-sc = open('hasilsc.html', 'w')
+sc = open('defaceByWisnu.html', 'w')
 title = raw_input('\x1b[31;1m[+]\x1b[36;1m Tulis judul title :\x1b[31;1m ')
 alert = raw_input('\x1b[31;1m[+]\x1b[36;1m Masukkan pesan pembuka :\x1b[31;1m ')
 bgcolor = raw_input('\x1b[31;1m[+]\x1b[36;1m Masukkan warna background :\x1b[31;1m ')
@@ -35,7 +35,7 @@ mulai8 = '\n<marquee behavior="scroll" direction="left" scrollamount="90" scroll
 m8 = thx
 mulai9 = '<span style="color: red;"></b></marquee></font></div><script type="text/rocketscript">/*<![CDATA[*/new TypingText(document.getElementById("message"), 90, function(i){ var ar= new Array("_", " ", "_", " "); return "" +ar[i.length % ar.length]; });//Type out examples:TypingText.runAll();/*]]>*/</script>\n<marquee behavior="scroll" direction="right" scrollamount="90" scrolldelay="40" width="100%">\n<font color="green">___________________________________________________________</font></marquee>\n</body>\n</html>'
 print '\x1b[31;1m[+]\x1b[36;1m===================================\x1b[31;1m[+]'
-print '\x1b[32;1mBerhasil Membuat Script di Memori Internal\nDengan Nama "hasilsc.html" ^^\x1b[37;1m'
+print '\x1b[32;1mBerhasil Membuat Script di Memori Internal\nDengan Nama "defaceByWisnu.html" ^^\x1b[37;1m'
 sc.write(mulai1)
 sc.write(m1)
 sc.write(mulai2)
