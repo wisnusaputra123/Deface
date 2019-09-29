@@ -3,7 +3,6 @@
 # Decompiled from: Python 2.7.16 (default, Jul 28 2019, 22:22:18) 
 # [GCC 4.2.1 Compatible Android (5220042 based on r346389c) Clang 8.0.7 (https://
 # Embedded file name: <s>
-print '\x1b[31;1m  createBY= Wisnu Saputra\n
 print '\x1b[36;1m[+]\x1b[31;1m================BETA===============\x1b[36;1m[+]'
 print '\x1b[32;1m   Coder By : Wisnu Saputra\n   Email    : cyberin356@gmail.com\n   Team     : BERMUDA-CYBER-TEAM'
 print '\x1b[36;1m[+]\x1b[31;1m===================================\x1b[36;1m[+]'
