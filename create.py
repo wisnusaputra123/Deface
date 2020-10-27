@@ -2,18 +2,18 @@
 #######################
 #  Deface Creator     #
 #######################
-mess = """======================================================
+mess = """=====================================================
              Deface Script Creator        
                 Wisnusaputra123
 ======================================================"""
 
 print mess
 print "Dibuat Oleh wisnusaputra123"
-title = raw_input("Judul title: ")
+title = raw_input("THEME title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
-message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
+message = raw_input("Text. gunakan kode <br> untuk text selanjutnya! : ")
 textcolor = raw_input("Warna text (contoh=green): ")
 youtubeid = raw_input("youtube kode (MUSIK): ")
 
